@@ -1,0 +1,5 @@
+rootProject.name = "EasyUpload"
+include ':sample'
+include ':kotlinlib'
+include ':javalib'
+include ':easyupload'
